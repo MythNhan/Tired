@@ -1,0 +1,19 @@
+p{
+    color :green;
+}
+
+a{
+    color :red;
+}
+
+tr>th{
+    color :black;
+}
+
+#first{
+   color: brown;
+}
+
+#second {
+    color: indianred;
+}
